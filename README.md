@@ -8,7 +8,7 @@ Orientador: Thibaut Vidal
 
 Meu contato: isantana [a-r-r-o-b-a] inf.puc-rio.br ou RDC522 (marcar com antecedência).
 
-Mais informações sobre mim: [Lattes](http://lattes.cnpq.br/9926924999426073).
+Mais informações: [Lattes](http://lattes.cnpq.br/9926924999426073).
 
 
 
@@ -17,4 +17,4 @@ Mais informações sobre mim: [Lattes](http://lattes.cnpq.br/9926924999426073).
 Página da disciplina: [LINK](http://www-di.inf.puc-rio.br/~vidalt/courses/INF1721-AA/INF1721-AA.html).
 
 
-Slides com exercícios resolvidos: [LINK](https://docs.google.com/presentation/d/15o8aFyS1w3l0Sohg_sUfmeDPjCBgxqg98vnXFslKm8c/edit?usp=sharing).
+Material da monitoria: [LINK](https://drive.google.com/drive/folders/1EMrcvEO0jOfwKAM_8C66DTMqP0Oj6y5w?usp=sharing).
