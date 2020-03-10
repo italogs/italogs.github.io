@@ -1,4 +1,4 @@
-# Ítalo Gomes Santana, M.Sc.
+# Bem-vindo
 
 Atualmente doutorando em informática na PUC-Rio.
 
@@ -8,7 +8,7 @@ Orientador: Thibaut Vidal
 
 Meu contato: isantana [a-r-r-o-b-a] inf.puc-rio.br ou RDC522 (marcar com antecedência).
 
-Publicações e outras informações relevantes: [Lattes](http://lattes.cnpq.br/9926924999426073).
+Mais informações sobre mim: [Lattes](http://lattes.cnpq.br/9926924999426073).
 
 
 
