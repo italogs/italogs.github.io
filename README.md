@@ -1,20 +1,20 @@
-# Bem-vindo
+# Summary
 
-Atualmente doutorando em informática na PUC-Rio.
+Currently as doctorate student at PUC-Rio advisored by Professor Thibaut Vidal.
 
-Orientador: Thibaut Vidal
+Interest: Combinatorial Optimization and Data Science.
 
-Área de pesquisa: Otimização e Raciocínio Automatico.
+E-mail: isantana [that special character :)] inf.puc-rio.br.
 
-Meu contato: isantana [a-r-r-o-b-a] inf.puc-rio.br ou RDC522 (marcar com antecedência).
+You can check my complete profile on [LinkedIn](https://www.linkedin.com/in/italogs/) (no sign up or log in is REQUIRED)
 
-Mais informações: [Lattes](http://lattes.cnpq.br/9926924999426073).
+## More about me
+
+Pinned projects on Github: [Link](https://github.com/italogs)
+
+Google Scholar: [Link](https://scholar.google.com.br/citations?user=95bKqh4AAAAJ)
+
+Scientific Resume: [Lattes](http://lattes.cnpq.br/9926924999426073).
 
 
 
-### Monitoria - Análise de Algoritmos (2020.1)
-
-Página da disciplina: [LINK](http://www-di.inf.puc-rio.br/~vidalt/courses/INF1721-AA/INF1721-AA.html).
-
-
-Material da monitoria: [LINK](https://drive.google.com/drive/folders/1EMrcvEO0jOfwKAM_8C66DTMqP0Oj6y5w?usp=sharing).
